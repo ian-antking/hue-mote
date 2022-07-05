@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 keybow = "*"
 argparse = "*"
+"rpi.gpio" = "*"
+spidev = "*"
 
 [dev-packages]
 
